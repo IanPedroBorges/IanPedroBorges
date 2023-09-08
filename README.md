@@ -2,7 +2,7 @@
 
 
 ## 🚀 About me
-...
+.....
 
 ## More about me
 👩‍💻 Currently taking a Fullstack Web Developer course at Trybe!
