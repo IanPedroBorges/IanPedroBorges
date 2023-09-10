@@ -1,12 +1,12 @@
-# Hi there, I'm Ian Borges👋
+# Ian Borges
 
+<hr>
 
-## 🚀 About me
-.....
+Ola, Eu sou Ian Borges👋 e sou <em>desenvolvedor full stack</em>.
 
-## More about me
-👩‍💻 Currently taking a Fullstack Web Developer course at Trybe!
+Atualmente trabalho como pessoa instrutora no módulo de front-end na Trybe, uma escola de programação onde as pessoas estudantes colocam em prática hard e soft-skills, estou atuando na área a mais de 2 anos, utilizando React, TypeScript, Java Script, Testing Library e Cypress como principais stacks.
 
+<hr>
 
 ### Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
