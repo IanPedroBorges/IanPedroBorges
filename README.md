@@ -34,6 +34,17 @@
 ![Cypress](https://img.shields.io/badge/Cypress-FFF?style=for-the-badge&logo=cypress&logoColor=25292D)
 
 
+## Contatos
+
+Estou aberto a oportunidades como <em>Full Stack</em>.
+
+[![Linkedin Badge](https://img.shields.io/badge/-IanBorges-1e66b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-borges/)](https://www.linkedin.com/in/ian-borges/) 
+__
+[![Gmail Badge](https://img.shields.io/badge/-IanBorges-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianpborges0@gmail.com)](mailto:ianpborges0@gmail.com)
+__
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00d446?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521990837905)](https://api.whatsapp.com/send?phone=5531987157144)
+
+<hr>
 
 
 ## GitHub Status
@@ -41,20 +52,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanPedroBorges&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanPedroBorges&layout=compact&theme=radical)
 
-## Contatos
 
-Estou aberto a oportunidades como <em>Full Stack</em>.
-
-[![Linkedin Badge](https://img.shields.io/badge/-IanBorges-1e66b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moises-santana/)](https://www.linkedin.com/in/moises-santana/) 
-__
-[![Gmail Badge](https://img.shields.io/badge/-IanBorges-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moisaant@gmail.com)](mailto:moisaant@gmail.com)
-__
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00d446?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521990837905)](https://api.whatsapp.com/send?phone=5521990837905)
-
-<hr>
-
-
-## 🔗 Get in touch
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-borges/)
-
-<a href = "mailto: ianpborges0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
