@@ -2,9 +2,9 @@
 
 <hr>
 
-Ola, Eu sou Ian Borges👋 e sou <em>desenvolvedor full stack</em>.
+👋 Olá! Sou Ian Borges, um entusiasta da tecnologia com uma paixão por programação e solução de problemas, também sou um aluno na Trybe, onde aprimoro minhas habilidades de desenvolvimento de software.
 
-Atualmente trabalho como pessoa instrutora no módulo de front-end na Trybe, uma escola de programação onde as pessoas estudantes colocam em prática hard e soft-skills, estou atuando na área a mais de 2 anos, utilizando React, TypeScript, Java Script, Testing Library e Cypress como principais stacks.
+📚 Meu interesse pela programação começou há cerca de dois anos, quando comecei a estudar de forma autodidata. Ao longo desse tempo, adquiri conhecimentos sólidos em diversas linguagens de programação, estruturas de dados e algoritmos.
 
 <hr>
 
