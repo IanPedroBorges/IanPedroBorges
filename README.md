@@ -42,7 +42,7 @@ Estou aberto a oportunidades como <em>Full Stack</em>.
 __
 [![Gmail Badge](https://img.shields.io/badge/-IanBorges-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianpborges0@gmail.com)](mailto:ianpborges0@gmail.com)
 __
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00d446?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521990837905)](https://api.whatsapp.com/send?phone=5531987157144)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00d446?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521990837905)](https://api.whatsapp.com/send?phone=5533987157144)
 
 <hr>
 
