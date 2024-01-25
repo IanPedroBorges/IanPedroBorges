@@ -1,5 +1,7 @@
 # Ian Borges
 
+email para contato: ianpborges0@gmail.com
+
 <hr>
 
 👋 Olá! Sou Ian Borges, um entusiasta da tecnologia com uma paixão por programação e solução de problemas, também sou um aluno na Trybe, onde aprimoro minhas habilidades de desenvolvimento de software.
