@@ -1,6 +1,5 @@
 # Ian Borges
-
-email para contato: ianpborges0@gmail.com
+                                                                                                                                                                                                      email: ianpborges0@gmail.com
 
 <hr>
 
