@@ -1,6 +1,6 @@
 # Ian Borges
 
-👋 Olá! Sou Ian Borges, um desenvolvedor **Full Stack** com paixão por tecnologia e solução de problemas. Atualmente sou Desenvolvedor na Capys , onde aprimoro continuamente minhas habilidades. Tenho experiência em diversas linguagens (incluindo React Native e C#) e sou entusiasta de desenvolvimento de jogos.
+👋 Olá! Sou Ian Borges, um desenvolvedor **Full Stack** com paixão por tecnologia e solução de problemas. Atualmente sou Desenvolvedor na Capys , onde aprimoro continuamente minhas habilidades. Tenho experiência em diversas linguagens e sou entusiasta de desenvolvimento de jogos.
 
 ## Competências
 - **Front-end:** React, Next.js, React Native, Redux, CSS3, HTML5, JavaScript, TypeScript, TailwindCSS, Material UI, Bootstrap, Styled Components.  
