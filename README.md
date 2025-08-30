@@ -1,13 +1,28 @@
 # Ian Borges
-email: ianpborges0@gmail.com
 
-<hr>
+👋 Olá! Sou Ian Borges, um desenvolvedor **Full Stack** com paixão por tecnologia e solução de problemas. Atualmente sou Programador Júnior na Memory e aluno da Trybe, onde aprimoro continuamente minhas habilidades. Tenho experiência em diversas linguagens (incluindo React Native e C#) e sou entusiasta de desenvolvimento de jogos.
 
-👋 Olá! Sou Ian Borges, um entusiasta da tecnologia com uma paixão por programação e solução de problemas, também sou um aluno na Trybe, onde aprimoro minhas habilidades de desenvolvimento de software.
+## Competências
+- **Front-end:** React, Next.js, React Native, Redux, CSS3, HTML5, JavaScript, TypeScript, TailwindCSS, Material UI, Bootstrap, Styled Components.  
+- **Back-end:** Node.js, Express, C#, TypeORM, Sequelize, SQL (MySQL, PostgreSQL), MongoDB, APIs REST, JWT.  
+- **Ferramentas:** Git, Linux, Docker, Jest, Mocha, Cypress, React Testing Library.  
+- **Desenvolvimento de Jogos:** Iniciando os estudos...  
+- **Metodologias Ágeis:** Scrum, Kanban.  
 
-📚 Meu interesse pela programação começou há cerca de dois anos, quando comecei a estudar de forma autodidata. Ao longo desse tempo, adquiri conhecimentos sólidos em diversas linguagens de programação, estruturas de dados e algoritmos.
+## Projetos
+- **Recipes App:** Aplicativo mobile em equipe para receitas. [Demo](https://recipes-project-tau.vercel.app/) | [Código](https://github.com/IanPedroBorges/Recipes) (React, TypeScript, CSS Modules, Context API, Testing Library).  
+- **Notices IBGE:** Site de notícias do IBGE. [Demo](https://teste-tecnico-ibge-simulator.vercel.app/) | [Código](https://github.com/IanPedroBorges/TesteTecnico) (React, TypeScript, CSS Modules, Context API).  
+- **RestaurantFood:** Site inspirado no iFood. [Demo](https://restaurant-food-rho.vercel.app/) | [Código](https://github.com/IanPedroBorges/RestaurantFood) (React, TypeScript, CSS Modules).  
+- **Trybe Futebol Club (TFC):** Site informativo sobre partidas e classificações (TypeScript, Node.js, Express, MySQL, Sequelize, Mocha, Chai, Sinon, JWT).  
+- **Trybe-Hotel:** API de sistema de hotéis em C# com ASP.NET. [Código](https://github.com/IanPedroBorges/Trybe-Hotel).  
+- **LuiFit:** E-commerce de roupas (Site: [luifit.com.br](http://www.luifit.com.br)).  
+- **Portfólio Pessoal:** Mais projetos disponíveis em meu [portfólio](https://ianpedroborges.vercel.app/).
 
-<hr>
+## Experiência Profissional
+- **Capys — Desenvolvedor** (Maio 2025 – Atual): Desenvolvimento e manutenção de sistemas corporativos, aplicando práticas ágeis e tecnologias modernas para otimizar processos diários.  
+- **Memory — Programador Júnior** (Jun 2024 – Abr 2025): Desenvolvimento e manutenção de sistemas corporativos, aplicando práticas ágeis e tecnologias modernas para otimizar processos diários.  
+- **Município — Auxiliar Administrativo/Monitor** (Mar 2021 – Jan 2024): Apoio em processos administrativos (transferências, admissões) e suporte educacional para alunos com necessidades especiais.  
+
 
 ### Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
